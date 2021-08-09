@@ -17,7 +17,6 @@ depends: [
   "dune" {>= "2.7"}
   "ocaml" {>= "4.12"}
   "dune-configurator"
-  "conf-postgresql" {build}
   "base-bytes"
   "odoc" {with-doc}
 ]
